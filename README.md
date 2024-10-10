@@ -29,15 +29,13 @@ You can install the required libraries using pip3:
 pip3 install pyscreenshot sounddevice pynput
 ```
 
-## Setup
+## Setup(I have made this project on macbook so please make required changes for windows if you need.)
 
-1:git clone https://github.com/yourusername/keylogger.git
-  cd keylogger
-
-2:export EMAIL_ADDRESS="your_email@gmail.com"
-  export EMAIL_PASSWORD="your_password"
-
-3: python keylogger.py
+1: git clone https://github.com/yourusername/keylogger.git
+2: cd keylogger
+3: export EMAIL_ADDRESS="your_email@gmail.com"
+4: export EMAIL_PASSWORD="your_password"
+5: python keylogger.py
 
 ## License
 

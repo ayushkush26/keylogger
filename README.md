@@ -31,15 +31,14 @@ pip3 install pyscreenshot sounddevice pynput
 
 ## Setup
 
-1: ```bash
-git clone https://github.com/yourusername/keylogger.git
-cd keylogger
-```
+1:git clone https://github.com/yourusername/keylogger.git
+  cd keylogger
 
-2: ```bash
-export EMAIL_ADDRESS="your_email@gmail.com"
-export EMAIL_PASSWORD="your_password"
-```
-3: ```bash
-python keylogger.py
-```
+2:export EMAIL_ADDRESS="your_email@gmail.com"
+  export EMAIL_PASSWORD="your_password"
+
+3: python keylogger.py
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.

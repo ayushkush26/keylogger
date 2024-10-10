@@ -27,7 +27,7 @@ You can install the required libraries using pip3:
 
 ```bash
 pip3 install pyscreenshot sounddevice pynput
-
+```bash
 ## Setup
 
 1: ```bash

